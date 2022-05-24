@@ -1,5 +1,5 @@
 ## Project Info
-Start of the project on 05/23/2022
+Start of the project on 23/05/2022
 
 ## Project objective
 Check crioptomedas values
